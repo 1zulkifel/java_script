@@ -1,0 +1,13 @@
+1:alert is a builtin key word and  is used to display informtaion on server site
+e.g,
+alert("hello world");
+2: console.log is function that write message on consle/terminal. obective of console.log is to create logs for debugging
+3: Document.write use to display message or text in browwer window.
+e.g, document.write("hello world"); or documnent.write(2+3);
+4; variable is containner for storing data values.
+e.g, var name="zulkifel";
+4:Datatypes in java (8) 6are primitive and 2 are complex
+e.g; number,string,boolean,Null,undefined and symbol are primitive .
+	function and object are complex. 
+
+
